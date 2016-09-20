@@ -1,0 +1,39 @@
+#header{
+	width:985px;
+	height:70px;
+	background:#00a651;
+}
+#container1{
+	width:985px ;
+	height:500px;
+	background:#7cc576;
+}
+.smallbox{
+	width: 320px;
+	height:470px;
+	margin:5px;
+	background:white;
+	float:left;
+}
+.smallerbox{
+	height:235px;
+	width: 320px;
+	background:#00a651;
+}
+#middlebox{
+	background:white;
+}
+#topdiv{
+	margin-bottom: 5px;
+}
+#bottomdiv{
+	height: 230px
+}
+#footer{
+	width:985px;
+	height:150px;
+	background:#00a651;
+}
+#dummy{
+	clear:both;
+}
